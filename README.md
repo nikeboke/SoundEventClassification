@@ -26,6 +26,7 @@ In STFT calculations, we choose 512 as the Fast Fourier transform window size(n_
 According to signal theory n_stft = n_fft/2 + 1, 257 frequency bins(n_stft) are calculated over a window size of 512. 
 The hop length of the window is chosen as 256 to have a better overlapping in calculating the STFT.
 
-Part of my project for ELEC440 Advanced Sensors feel free to use the code and contact me 
+Part of my project for ELEC440 Advanced Sensors.
+Feel free to use the code and contact me 
 Support Open Source!
 ekin_boke@arcelik.com
